@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/AzamkhanPathan007" width="160" alt="Azam Khan Pathan's avatar"/>
+  <img src="https://avatars.githubusercontent.com/AftabModasiya" width="160" alt="Azam Khan Pathan's avatar"/>
 </p>
 
 <!-- Dynamic GitHub Stats & Trophies -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AzamkhanPathan007&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-profile-trophy.vercel.app/?username=AzamkhanPathan007&theme=radical&margin-w=10" alt="GitHub trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AftabModasiya&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AftabModasiya&theme=radical&margin-w=10" alt="GitHub trophies" />
 </p>
 
 # Hi there, I'm Azam Khan Pathan 👋
@@ -51,7 +51,7 @@
 
 ### 📂 Featured Repositories
 
-- [Own-Transport-Details-System](https://github.com/AzamkhanPathan007/Own-Transport-Details-System)
+- [Own-Transport-Details-System](https://github.com/AftabModasiya/Own-Transport-Details-System)
 
 ---
 
