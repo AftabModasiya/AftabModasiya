@@ -3,9 +3,35 @@
 </p>
 
 <!-- Dynamic GitHub Stats & Trophies -->
+<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AftabModasiya&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-profile-trophy.vercel.app/?username=AftabModasiya&theme=radical&margin-w=10" alt="GitHub trophies" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=AftabModasiya&show_icons=true&theme=radical&hide_border=true&count_private=true"
+    height="170"
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AftabModasiya&layout=compact&theme=radical&hide_border=true"
+    height="170"
+    alt="Top Languages"
+  />
+</p>
+
+<!-- GitHub Streak -->
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=AftabModasiya&theme=radical&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=AftabModasiya&theme=radical&no-frame=true&margin-w=15&margin-h=15"
+    alt="GitHub Trophies"
+  />
 </p>
 
 # Hi there, I'm Aftab Modasiya 👋
