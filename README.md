@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/AftabModasiya" width="160" alt="Azam Khan Pathan's avatar"/>
+  <img src="https://avatars.githubusercontent.com/AftabModasiya" width="160" alt="Aftab Modasiya avatar"/>
 </p>
 
 <!-- Dynamic GitHub Stats & Trophies -->
@@ -8,15 +8,15 @@
   <img src="https://github-profile-trophy.vercel.app/?username=AftabModasiya&theme=radical&margin-w=10" alt="GitHub trophies" />
 </p>
 
-# Hi there, I'm Azam Khan Pathan 👋
+# Hi there, I'm Aftab Modasiya 👋
 
-**Software Developer | Backend Specialist | Cloud Enthusiast**
+**Software Developer | Frontend Specialist | Cloud Enthusiast**
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🚀 Backend developer with 2+ years of hands-on experience
+- 🚀 Front developer with 2+ years of hands-on experience
 - Passionate about designing **scalable** and **efficient** systems
 - Advocate for **Clean Code**, **SOLID Principles**, and **DRY** development
 - Gaming enthusiast 🎮
@@ -33,9 +33,9 @@
   <img src="https://img.shields.io/badge/YAML-ffffff?style=for-the-badge&logo=yaml&logoColor=black" />
 
   <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-e0234e?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=react.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-e0234e?style=for-the-badge&logo=next.js&logoColor=white" />
 
   <!-- Cloud & Tools -->
   <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" />
